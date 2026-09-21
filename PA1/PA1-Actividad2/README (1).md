@@ -1,15 +1,15 @@
 # README — Evaluación
 
-> **Curso:** PROGRAMACION WEB - II  
-> **Código:** 30690  
-> **Evaluación:** [PA1 / PA2 / PA3 / PA4 / EI]  
-> **Equipo:** [NOMBRE O NÚMERO]  
+> **Curso:** Algoritmo y estructura de datos   
+> **Código:** 4682  
+> **Evaluación:** [PA1]  
+> **Equipo:** [Grupo 7]  
 
 ## 1. Integrantes
 
 | Integrante | Rol | Aporte principal |
 |---|---|---|
-| [Nombre 1] | [Rol] | [Aporte] |
+| [Yasier Araceli Fernandez Villavicencio] | [Rol] | [Actividad2] |
 | [Nombre 2] | [Rol] | [Aporte] |
 | [Nombre 3] | [Rol] | [Aporte] |
 | [Nombre 4] | [Rol] | [Aporte] |
@@ -226,11 +226,19 @@ public class TareaVectores {
 
 ![Vector ordenado](capturas/05-vector-ordenado.png)
 
+### Terminal
+
+![Terminal](capturas/06-terminal.png)
+
+### Terminal prueba
+
+![TerminalPrueba](capturas/07-terminalprueba.png)
+
 ## 5. Matriz de participación
 
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 |---|---|---|---|---|---|
-| [Nombre 1] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Yasier Araceli Fernandez Villavicencio] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 2] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 3] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
@@ -252,4 +260,4 @@ Todos los integrantes deben participar en la exposición con sus cámaras prendi
 
 ---
 
-**Última actualización:** [DD/MM/AAAA]
+**Última actualización:** [21/09/2026]
